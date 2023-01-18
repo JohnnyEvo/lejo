@@ -4,7 +4,7 @@ import Question from "./question";
 const QuestionZone = () => {
     return <>
         <p className={questionZoneCss.question}>
-            Qu'est-ce que tu veux ?
+            Que voulez-vous savoir ?
         </p>
         <Question />
     </>

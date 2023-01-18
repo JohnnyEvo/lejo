@@ -1,7 +1,7 @@
 export const color = {
   content: '#333',
   primary: '#a2d2ff',
-  secondary: '#ffafcc',
+  secondary: '#236ab3',
 };
 
 export const space = {

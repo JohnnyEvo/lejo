@@ -25,7 +25,7 @@ const Question = () => {
             let data = await callChat(value);
             setAnswer(data.response);
         }}>
-            MAIS TU VAS ME RÉPONDRE OUI !
+            Validez votre question
         </button>
         <div className={questionCss.answer}>
             {answer}
