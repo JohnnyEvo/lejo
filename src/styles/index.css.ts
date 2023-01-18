@@ -9,7 +9,11 @@ export const container = style([sprinkles({
         tablet: 'medium',
         desktop: 'large'
     },
-    padding: 'medium'
+    padding: {
+        mobile: 'xs',
+        tablet: 'medium',
+        desktop: 'large'
+    }
 }), {
     background: 'white',
     height: "100vh",

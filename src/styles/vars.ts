@@ -6,6 +6,7 @@ export const color = {
 
 export const space = {
     none: 0,
+    xs: '1rem',
     small: '2rem',
     medium: '4rem',
     large: '8rem'
